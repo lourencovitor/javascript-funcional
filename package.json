@@ -1,0 +1,13 @@
+{
+  "name": "curso-js-funcional",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lourencovitor/javascript-funcional.git",
+  "author": "Vitor Lourenco <vitor.lourenco@opencircle.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "rxjs": "^6.6.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
